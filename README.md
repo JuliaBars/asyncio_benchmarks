@@ -15,6 +15,7 @@ _Репозиторий на Github [ссылка](https://github.com/JuliaBars/
 
 _Тесты были запущены на 6-ти ядерном процессоре AMD Ryzen 5 4600H with Radeon Graphics_
 _Python 3.10, Debian_
+
 ----
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)![Flask](https://img.shields.io/badge/FLask-000000?style=for-the-badge&logo=flask&logoColor=white)![aiohttp](https://img.shields.io/badge/aiohttp-2C5BB4?style=for-the-badge&logo=aiohttp)![starlette](https://img.shields.io/badge/starlett-ffff00?style=for-the-badge&Color=white)
 
