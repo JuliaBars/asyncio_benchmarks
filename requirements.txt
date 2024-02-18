@@ -1,0 +1,7 @@
+aiohttp==3.9.3
+asyncpg==0.23.0
+Flask==3.0.1
+gunicorn==20.1.0
+psycopg2-binary==2.9.9
+starlette==0.37.1
+uvicorn==0.14.0
